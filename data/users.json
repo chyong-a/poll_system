@@ -1,0 +1,128 @@
+{
+    "63ab56621aa28": {
+        "username": "admin",
+        "password": "$2y$10$dMLt72QaXqISu1ICZR0MJ.0VVBIgsMDym6H4tGPjFwA6Nxlolind6",
+        "fullname": "admin",
+        "roles": [
+            "admin"
+        ],
+        "id": "63ab56621aa28"
+    },
+    "63ab56806df56": {
+        "username": "q",
+        "password": "$2y$10$gMZZA2Wg1imU7NaXA4gE7uRdamh7jAlQtYLWQA01oNeZuiv8kl54G",
+        "fullname": "q",
+        "roles": [
+            "user"
+        ],
+        "id": "63ab56806df56"
+    },
+    "63ab5686c194d": {
+        "username": "w",
+        "password": "$2y$10$83mZBOwhbb5tWjie6I7pP.PkbmPk8\/pZcbgKkpqSHDoMcSu8iSuhW",
+        "fullname": "w",
+        "roles": [
+            "user"
+        ],
+        "id": "63ab5686c194d"
+    },
+    "63ab56ac4203e": {
+        "username": "e",
+        "password": "$2y$10$ffzEjzSjQHH9Qpek1J.XY.zyJ5e3j\/EeaoKBGOCSBxBEzkbKmfBr6",
+        "fullname": "e",
+        "roles": [
+            "user"
+        ],
+        "id": "63ab56ac4203e"
+    },
+    "63ab56b1390a0": {
+        "username": "r",
+        "password": "$2y$10$AAWHL\/28eQIDcNmG3FopceOnx5XrCrd4B18fEb7vW4Lu6JOdnMtlK",
+        "fullname": "r",
+        "roles": [
+            "user"
+        ],
+        "id": "63ab56b1390a0"
+    },
+    "63ab56b6699d6": {
+        "username": "t",
+        "password": "$2y$10$XoU2P47VcMmF6IZD.DNVauCsGxldQRxkhCJlqpMFvIAhS1RUrBmTu",
+        "fullname": "t",
+        "roles": [
+            "user"
+        ],
+        "id": "63ab56b6699d6"
+    },
+    "63ab56bc489d8": {
+        "username": "y",
+        "password": "$2y$10$Cc\/Z5Mb17HTZZRAVCHAKBOjClmpM2GGCMqGuwFe8mxDv4cx9AE6E.",
+        "fullname": "y",
+        "roles": [
+            "user"
+        ],
+        "id": "63ab56bc489d8"
+    },
+    "63ab56c287593": {
+        "username": "u",
+        "password": "$2y$10$5h0i3f0cqP9S0XoliVfVueOLCbtMdkMBbbVr.dJKif8ppqBSiAD8q",
+        "fullname": "u",
+        "roles": [
+            "user"
+        ],
+        "id": "63ab56c287593"
+    },
+    "63ab56c824101": {
+        "username": "i",
+        "password": "$2y$10$SFejhppXCif3gf\/yR19g0ex0dPgvXFJwkFCSNmB4lIQbKXZJQKNxS",
+        "fullname": "i",
+        "roles": [
+            "user"
+        ],
+        "id": "63ab56c824101"
+    },
+    "63ab56cd4acf8": {
+        "username": "o",
+        "password": "$2y$10$\/P7iPOxcW60JQ38j8Tm1geW13ODQGNmsOBzaadLVgpv\/EIwWLb\/Ya",
+        "fullname": "o",
+        "roles": [
+            "user"
+        ],
+        "id": "63ab56cd4acf8"
+    },
+    "63ab56d1e001d": {
+        "username": "p",
+        "password": "$2y$10$t1fZWLO\/FrAPKCi6Iqp3l.VSev3\/DwSE8VFb2r0h.OFBX40P6Y5b2",
+        "fullname": "p",
+        "roles": [
+            "user"
+        ],
+        "id": "63ab56d1e001d"
+    },
+    "63ab5840363ad": {
+        "username": "Artur",
+        "password": "$2y$10$k0n82vZVPDuMC96yhVaGYOiqL98VdubntX5eTJdtma\/sDAD1vE8BW",
+        "fullname": "Chyong Artur",
+        "roles": [
+            "user"
+        ],
+        "id": "63ab5840363ad"
+    },
+    "63b345021f846": {
+        "username": "x",
+        "password": "$2y$10$XLaQAxsECQcS4f.Hgj58IOncEvQlLbjHVeWVlPFz3SCLn9\/.Kk2DG",
+        "fullname": "x",
+        "roles": [
+            "user"
+        ],
+        "id": "63b345021f846"
+    },
+    "63b8677a272b6": {
+        "username": "Artur1",
+        "password": "$2y$10$7PDVXVBUzlll8i2h.qOequvzjdEangDyUWXQRk.rjuXKtCHRFZtbu",
+        "fullname": "Artur1",
+        "roles": [
+            "user"
+        ],
+        "id": "63b8677a272b6"
+    }
+}

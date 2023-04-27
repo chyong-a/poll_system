@@ -1,0 +1,193 @@
+body {
+    background-color: rgb(241, 241, 241);
+    color: rgba(83, 58, 62, 0.875);
+    font-size: 1.2em;
+}
+
+header {
+    width: 100%;
+    border-radius: 2em 2em 0 0;
+    background: linear-gradient(to bottom, rgb(60, 141, 188) 90%, rgb(241, 241, 241) 100%);
+}
+
+footer {
+    background: linear-gradient(to top, rgb(60, 141, 188) 90%, rgb(241, 241, 241) 100%);
+    width: 100%;
+    border-radius: 0 0 2em 2em;
+}
+
+aside {
+    background-color: rgb(46, 55, 59);
+    color: rgb(230, 230, 230);
+    height: max-content;
+    margin-top: 2em;
+    width: 25%;
+    border-radius: 1em;
+    border: 1px rgba(69, 68, 68, 0.795) solid;
+    padding: 0 1em 1em 1em;
+}
+
+#main {
+    background-color: rgb(241, 241, 241);
+    width: 70%;
+    border-radius: 0.5em;
+    padding: 1%;
+}
+
+#wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+#recentPoll {
+    background: linear-gradient(to right, rgb(0, 192, 239) 0%, rgb(241, 241, 241) 44%);
+    border-radius: 0.4em;
+    margin: 1em;
+    padding: 1em;
+}
+
+#activePolls {
+    background: linear-gradient(to right, rgb(0, 166, 90) 0%, rgb(241, 241, 241) 44%);
+    border-radius: 0.4em;
+    margin: 1em;
+    padding: 1em;
+}
+
+#closedPolls {
+    background: linear-gradient(to right, rgb(221, 75, 57) 0%, rgb(241, 241, 241) 44%);
+    border-radius: 0.4em;
+    margin: 1em;
+    padding: 1em;
+}
+
+#specialPolls {
+    background: linear-gradient(to right, rgb(153, 57, 221) 0%, rgb(241, 241, 241) 44%);
+    border-radius: 0.4em;
+    margin: 1em;
+    padding: 1em;
+}
+
+.pollframe {
+    background-color: rgba(92, 92, 92, 0.114);
+    border-radius: 0.3em;
+    border: 1px rgba(73, 72, 72, 0.026) solid;
+    margin: 1em;
+    padding: 1em;
+}
+
+.pollframe:hover {
+    background-color: rgba(172, 171, 171, 0.386);
+}
+
+a:visited {
+    color: rgb(172, 7, 255);
+}
+
+.error {
+    color: red;
+}
+
+a {
+    text-decoration: none;
+}
+
+#header>h1>a {
+    background:
+        linear-gradient(to right,
+            rgba(100, 200, 200, 1),
+            rgba(100, 200, 200, 1)),
+        linear-gradient(to right,
+            rgba(255, 0, 0, 1),
+            rgba(255, 0, 180, 1),
+            rgba(0, 100, 200, 1));
+    background-size: 100% 3px, 0 3px;
+    background-position: 100% 100%, 0 100%;
+    background-repeat: no-repeat;
+    transition: background-size 400ms;
+}
+
+#header>h1>a:hover {
+    background-size: 0 3px, 100% 3px;
+}
+
+#header>h1>a:visited {
+    color: rgba(255, 255, 255, 0.782);
+    text-decoration: none;
+}
+
+#header>h1 {
+    padding: 0.2em;
+    padding-left: 1em;
+}
+
+input {
+    background-color: rgb(46, 55, 59);
+    color: rgb(207, 205, 205);
+    border-radius: 1em;
+    box-shadow: rgba(53, 80, 94, 0.352) 0 -25px 18px -14px inset, rgba(74, 120, 142, 0.577) 0 1px 2px, rgba(36, 54, 62, 0.474) 0 2px 4px, rgba(36, 54, 62, 0.518) 0 4px 8px, rgba(36, 54, 62, 0.441) 0 8px 16px, rgba(36, 54, 62, 0.337) 0 16px 32px;
+    cursor: pointer;
+    padding: 7px 20px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 250ms;
+    border: none;
+    user-select: none;
+    touch-action: manipulation;
+    margin: 0.5em 0.5em 0.5em 0;
+}
+
+input:hover {
+    box-shadow: rgba(108, 167, 195, 0.577) 0 -25px 18px -14px inset, rgba(108, 167, 195, 0.577) 0 1px 2px, rgba(108, 167, 195, 0.577) 0 2px 4px, rgba(108, 167, 195, 0.577) 0 4px 8px, rgba(108, 167, 195, 0.577) 0 8px 16px, rgba(108, 167, 195, 0.577) 0 16px 32px;
+    transform: scale(1.05) rotate(-1deg);
+}
+
+button {
+    background-color: rgb(46, 55, 59);
+    color: rgb(207, 205, 205);
+    border-radius: 1em;
+    box-shadow: rgba(53, 80, 94, 0.352) 0 -25px 18px -14px inset, rgba(74, 120, 142, 0.577) 0 1px 2px, rgba(36, 54, 62, 0.474) 0 2px 4px, rgba(36, 54, 62, 0.518) 0 4px 8px, rgba(36, 54, 62, 0.441) 0 8px 16px, rgba(36, 54, 62, 0.337) 0 16px 32px;
+    cursor: pointer;
+    padding: 7px 20px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 250ms;
+    border: none;
+    user-select: none;
+    touch-action: manipulation;
+    margin: 0.5em 0.5em 0.5em 0;
+}
+
+button:hover {
+    box-shadow: rgba(108, 167, 195, 0.577) 0 -25px 18px -14px inset, rgba(108, 167, 195, 0.577) 0 1px 2px, rgba(108, 167, 195, 0.577) 0 2px 4px, rgba(108, 167, 195, 0.577) 0 4px 8px, rgba(108, 167, 195, 0.577) 0 8px 16px, rgba(108, 167, 195, 0.577) 0 16px 32px;
+    transform: scale(1.05) rotate(-1deg);
+}
+
+footer>h1 {
+    text-align: center;
+    font-size: small;
+    font-weight: bold;
+    padding: 1em 0 1em 0;
+    color: rgba(255, 255, 255, 0.666);
+}
+
+aside {
+    text-align: center;
+}
+
+aside>h1 {
+    text-align: center;
+}
+
+input[type='checkbox'] {
+    margin: 0 1em 0 0.4em;
+}
+
+input[type='radio'] {
+    margin: 0 1em 0 0.4em;
+}
+
+.winner{
+    color: rgba(241, 216, 69, 0.786);
+    font-size: larger;
+    font-weight: bold;
+}

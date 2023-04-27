@@ -1,0 +1,102 @@
+{
+    "63ab5719debbd": {
+        "question": "Who are you from qwerty?",
+        "options": "q;w;e;r;t;y",
+        "isMultiple": "false",
+        "createdAt": "2022-12-27",
+        "deadline": "2023-01-03",
+        "answers": [
+            "q",
+            "w",
+            "y",
+            "t"
+        ],
+        "voted": [
+            "63ab56806df56",
+            "63ab5686c194d",
+            "63ab56bc489d8",
+            "63ab56b6699d6"
+        ],
+        "id": "63ab5719debbd",
+        "groups": [
+            "63ab56f3d58dd"
+        ]
+    },
+    "63ab5794b3a00": {
+        "question": "What is the best food for you?",
+        "options": "pizza;langos;sushi;pasta",
+        "isMultiple": "true",
+        "createdAt": "2022-12-27",
+        "deadline": "2024-12-29",
+        "answers": [
+            [
+                "langos",
+                "sushi"
+            ],
+            [
+                "sushi"
+            ]
+        ],
+        "voted": [
+            "63ab56ac4203e",
+            "63b345021f846"
+        ],
+        "id": "63ab5794b3a00"
+    },
+    "63ab57b6712de": {
+        "question": "To be or not to be?",
+        "options": "to be;not to be",
+        "isMultiple": "false",
+        "createdAt": "2022-12-27",
+        "deadline": "2023-12-28",
+        "answers": [],
+        "voted": [],
+        "id": "63ab57b6712de"
+    },
+    "63ab57e03917d": {
+        "question": "What is the best time for the consultation?",
+        "options": "10:30;11:00;11:30",
+        "isMultiple": "true",
+        "createdAt": "2022-12-27",
+        "deadline": "2022-12-29",
+        "answers": [
+            [
+                "11:00",
+                "11:30"
+            ]
+        ],
+        "voted": [
+            "63ab56806df56"
+        ],
+        "id": "63ab57e03917d",
+        "groups": null
+    },
+    "63ab582603d1f": {
+        "question": "President",
+        "options": "Putin;Nov\u00e1k;Biden;Trump;Obama",
+        "isMultiple": "false",
+        "createdAt": "2022-12-27",
+        "deadline": "2022-12-29",
+        "answers": [
+            "Obama"
+        ],
+        "voted": [
+            "63ab56806df56"
+        ],
+        "groups": null,
+        "id": "63ab582603d1f"
+    },
+    "63ab587d74aa6": {
+        "question": "Are you an admin or Artur?",
+        "options": "Artur;Admin",
+        "isMultiple": "false",
+        "createdAt": "2022-12-27",
+        "deadline": "2022-12-30",
+        "answers": [],
+        "voted": [],
+        "groups": [
+            "63ab58674b388"
+        ],
+        "id": "63ab587d74aa6"
+    }
+}
